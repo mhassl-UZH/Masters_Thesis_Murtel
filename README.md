@@ -1,6 +1,6 @@
 #### **Surface Temperature Dynamics at the Murtèl Rock Glacier**
 
-Code accompanying the master's thesis Spatio-temporal surface temperature dynamics at the Murtèl rock glacier
+Code accompanying the master's thesis "Spatio-Temporal Surface Temperature Dynamics and Atmospheric Controls on Murtèl Rock Glacier"
 
 by Marco Hassler, University of Zurich, 2026.
 
