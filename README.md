@@ -25,7 +25,7 @@ This repository contains the processing and Analysis Pipelines used to derive an
 
 **│   └── calc\_filter\_entropy.py     	# Calculates entropy based on labelled images and filters raw CSVs based on this entropy		 # Figure 5**
 
-**│   └── distance\_calculation.py    	# Calculates approximate distance per pixel based on DEM and camera popsition				 # Figure 8**
+**│   └── distance\_calculation.py    	# Calculates approximate distance per pixel based on DEM and camera popsition				  # Figure 8**
 
 **│   └── extract\_ICT.py    		# Extracts internal camera temperature from TIR PNGs**
 
